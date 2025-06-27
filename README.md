@@ -8,6 +8,9 @@ A professional LaTeX class for Chittagong University of Engineering & Technology
 - **Institution**: CUET, Department of Mechanical Engineering
 - **Created**: June 2025
 
+![Cover Page](https://github.com/fahadelahikhan/cuet-me-lab-template/blob/fb08ba7673180ad2c8fd156199044c929f8eb306/main.jpg)
+
+
 ## Features
 - Custom class file following LaTeX best practices
 - Professional cover page design
