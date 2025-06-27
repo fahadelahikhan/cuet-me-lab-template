@@ -1,0 +1,66 @@
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License
+CUET ME Lab Report Template
+Copyright (c) 2025 Fahad Elahi Khan
+Student ID: 2103017
+Chittagong University of Engineering & Technology
+Department of Mechanical Engineering
+
+This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+You are free to:
+
+Share — copy and redistribute the material in any medium or format
+Adapt — remix, transform, and build upon the material
+
+The licensor cannot revoke these freedoms as long as you follow the license terms.
+Under the following terms:
+
+Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+NonCommercial — You may not use the material for commercial purposes.
+ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+
+Notices:
+You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation.
+No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.
+Attribution Requirements:
+When using this template, you must include the following attribution:
+LaTeX Template: CUET ME Lab Report Template
+Original Author: Fahad Elahi Khan (Student ID: 2103017)
+Institution: Chittagong University of Engineering & Technology
+Department: Mechanical Engineering
+License: CC BY-NC-SA 4.0
+Source: https://github.com/fahadelahikhan/cuet-me-lab-template
+Academic Use Guidelines:
+This template is specifically designed for academic purposes. When using this template:
+
+For CUET Students: You may use this template for your lab reports with proper attribution
+For Other Institutions: Please modify the institutional information and provide proper attribution
+For Educators: You may distribute this template to students with attribution requirements
+For Researchers: You may adapt this template for academic publications with proper attribution
+
+Commercial Use:
+Commercial use of this template requires explicit written permission from the copyright holder. Contact the author for commercial licensing arrangements.
+Technical Note:
+While LaTeX code itself cannot be copyrighted, this template contains:
+
+Original design elements and layout choices
+Custom color schemes and typography selections
+Specific formatting and styling decisions
+Creative arrangement of visual elements
+
+These creative and design aspects are protected under this license.
+
+Full License Text: https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+Human-Readable Summary: https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Contact Information:
+For questions about licensing, permissions, or collaborations:
+
+Author: Fahad Elahi Khan
+Institution: CUET, Department of Mechanical Engineering
+Student ID: 2103017
+GitHub: https://github.com/fahadelahikhan
+Email: khanfahadelahi@gmail.com
+
+
+This license was chosen to ensure the template remains free for academic use while protecting the original author's rights and encouraging proper attribution in the academic community.
